@@ -1,0 +1,17 @@
+Mean of BBhtwt.dat is: 201.6892545982575
+Std of BBhtwt.dat is: 20.981327860873357
+Mean of Bigheightswt.dat is: 127.07942116080001
+Std of Bigheightswt.dat is: 11.66066434332078
+Correlation error of bhtwt is 25.725419341779336
+Correlation error of big heights is 11.15058313240044
+Pearson's Correlation Coefficient for bbhtwt is 0.5318858630270022
+Pearson's Correlation Coefficient for bigHeights is 0.5028585206028467
+Average bmi values ---------
+bmi_bbhtwt 26.104516886278756
+bmi_bigheight 19.324163110021974
+bbhtwt std ---------
+False std 2.2990978444324264
+Right std 7.496338681992776
+Big height std-----
+False std 1.5517146621650322
+Right std 0.0002900103321998323
